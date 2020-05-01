@@ -1,5 +1,7 @@
 Database Migration Across DBMS
 
+This project has been built by Riko and Ayu as the advanced database system final project
+
 The interface attached below
 
 1. Login form
